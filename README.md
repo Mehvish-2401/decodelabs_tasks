@@ -42,7 +42,16 @@ Little Companion Bot is a rule-based chatbot built using Python. It provides fri
 ## Project Objective
 
 This project was developed as part of the DecodeLabs Artificial Intelligence Internship Program. It demonstrates rule-based decision making, user interaction, and basic AI chatbot concepts.
+## Screenshots
 
+### Welcome Screen
+![Welcome](welcome.png)
+
+### Mood Check-In
+![Mood Check-In](mood_checkin.png)
+
+### Features
+![Features](features.png)
 ## Author
 
 Mehvish
