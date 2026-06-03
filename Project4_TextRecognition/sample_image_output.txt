@@ -1,0 +1,12 @@
+OCR TEXT EXTRACTION REPORT
+========================================
+Source Image   : sample_image.png
+Language       : en
+Confidence     : 94.54%
+Word Count     : 13
+Processing Time: 1.11 sec
+----------------------------------------
+HELLO DECODE LABS
+THIS IS MY Al INTERNSHIP PROJECT
+
+TEXT RECOGNITION USING OCR

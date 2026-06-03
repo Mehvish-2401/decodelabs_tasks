@@ -1,0 +1,10 @@
+OCR TEXT EXTRACTION REPORT
+========================================
+Source Image   : french.png
+Language       : fr
+Confidence     : 90.9%
+Word Count     : 10
+Processing Time: 0.58 sec
+----------------------------------------
+Bonjour Decode Labs, c'est mon
+projet de stage en lA
