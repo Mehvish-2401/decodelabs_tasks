@@ -99,9 +99,9 @@ pip install scikit-learn numpy matplotlib seaborn
 
 ## Run the Project
 
-```bash
+
 python face_classifier.py
-```
+
 
 ## Learning Outcomes
 
