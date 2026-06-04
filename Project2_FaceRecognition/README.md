@@ -93,7 +93,7 @@ The dataset includes variations in:
 
 ## Installation
 
-```bash
+```
 pip install scikit-learn numpy matplotlib seaborn
 ```
 
