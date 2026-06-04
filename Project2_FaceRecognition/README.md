@@ -89,8 +89,6 @@ The dataset includes variations in:
 
 ---
 
-```
-
 ## Installation
 
 ```
@@ -99,9 +97,9 @@ pip install scikit-learn numpy matplotlib seaborn
 
 ## Run the Project
 
-
+```
 python face_classifier.py
-
+```
 
 ## Learning Outcomes
 
